@@ -6,3 +6,6 @@ def nana():
 
 def baba():
     print('Ola')
+
+def kaka():
+    print("gaga")
